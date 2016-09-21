@@ -10,9 +10,13 @@ Xinwei Jiang, Junbin Gao, Xia Hong, Zhihua Cai. Gaussian Processes Autoencoder f
 Experimental Settings:
 
 Download the codes from https://github.com/XinweiJiang/SLLGPLVM
-Enter directory \SGPGPLVM;
+
+Enter directory \SGPGPLVM; 
+
 Run setdir.m to set paths;
+
 Run demo demAutoEncoderGPOil.m
+
 Notes:
 
 In order to accelerate the speed, in this demo we reduced the number of iterations.
